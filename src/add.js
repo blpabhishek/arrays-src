@@ -1,5 +1,5 @@
 const add = function (a, b) {
-  return a + b;
+  return a;
 };
 
 exports.add = add;
